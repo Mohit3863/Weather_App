@@ -34,4 +34,4 @@ To run this project locally, you need the following installed on your machine:
 1. Clone the Repository:
    Clone the project repository to your local machine using the following command:
    
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Mohit3863/Weather_App.git
